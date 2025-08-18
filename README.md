@@ -132,9 +132,15 @@
 
 ## 📊 Métricas (automáticas)
 
-<p>
-  <img align='center' height="170" src="https://streak-stats.demolab.com?user=brjhon&hide_border=true" />
-</p>
+<Picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VFigueiredo23&layout=compact&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vfigueiredo23&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VFigueiredo23&layout=compact&theme=default&hide_border=true" />
+  </Picture>
 
 
 ---
