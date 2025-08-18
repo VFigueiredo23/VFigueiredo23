@@ -138,7 +138,7 @@
       media="(prefers-color-scheme: dark)" />
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vfigueiredo23&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)" />
+      media="(prefers-color-scheme: dark)" />
     <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VFigueiredo23&layout=compact&theme=default&hide_border=true" />
   </Picture>
 
