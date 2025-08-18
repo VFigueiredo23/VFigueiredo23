@@ -132,15 +132,30 @@
 
 ## 📊 Métricas (automáticas)
 
-<Picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VFigueiredo23&layout=compact&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vfigueiredo23&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VFigueiredo23&layout=compact&theme=default&hide_border=true" />
-  </Picture>
+<div align="center">
+
+  <!-- Stats -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=brjhon&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=brjhon&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api?username=brjhon&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" />
+  </picture>
+
+  <!-- Streak -->
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=brjhon&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=brjhon&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: light)" />
+    <img alt="GitHub Streak" height="210" src="https://streak-stats.demolab.com?user=brjhon&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </picture>
+
+  <!-- Top Langs -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brjhon&layout=compact&langs_count=8&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brjhon&layout=compact&langs_count=8&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img alt="Top Languages" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brjhon&layout=compact&langs_count=8&theme=default&hide_border=true" />
+  </picture>
+
+</div>
 
 
 ---
