@@ -7,7 +7,7 @@
 
 <h1 align="center">Victor Figueiredo 👋</h1>
 <p align="center">
- <b>Dev em formação | Engenharia de Software.</b> <br>Focado em <b>Django/DRF</b> no back-end e <b>React Native (Expo)</b> no mobile. <br/>
+ <b>Desenvolvedor Full Stack | Centro de Operações Rio | React, Django, Python, Mobile & Integrações</b> <br>Focado em <b>Django/DRF</b> no back-end e <b>React Native (Expo)</b> no mobile. <br/>
   Código limpo, deploy simples e experiências que resolvem problemas de verdade. 
 </p>
 
