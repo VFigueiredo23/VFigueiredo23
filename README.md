@@ -29,6 +29,7 @@ Procuro uma vaga remota como desenvolvedor full stack ou backend Python/Django.
 - **Espelho do AlertaRio**: base própria com os dados de chuva da cidade, em Django e PostgreSQL/TimescaleDB, com cerca de 36 milhões de medições históricas e coleta contínua.
 - **Dashboard da Light**: histórico de transformadores com interrupção por bairro, em Node.js e SQLite.
 - **CORA**: assistente virtual com IA para o COR, em desenvolvimento.
+- **Visão computacional**: detecção de alagamentos por câmeras e monitoramento de vandalismo em câmeras urbanas.
 - **InvCor**: sistema de inventário em Django.
 - **Painéis e sistemas internos**: radares meteorológicos, vento, mapa de câmeras, operação de Carnaval, cautelas, agenda e relatórios de TI.
 
